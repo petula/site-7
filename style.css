@@ -1,0 +1,171 @@
+
+body{
+background-color: #FFFFF0;
+
+}
+
+
+nav{
+
+margin-left: 355px;
+text-align: center;
+
+}
+
+
+nav ul{
+  background-color: #b5ce00;
+  height:50px;
+  margin-left: 20px;
+  width: 1035px;
+
+}
+
+
+nav ul li {
+  display:inline-block;
+
+  font-family: "Open Sans", Arial, sans-serif;
+  margin-right: 40px;
+  margin-top: 15px;
+
+}
+nav ul li a{
+  color: white;
+  text-decoration: none;
+}
+
+header{
+  background-color: #F8F8F8;
+  width: 100%
+}
+
+header p{
+  text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+
+
+
+}
+.android{
+margin-left: 370px;
+width: 950px;
+display: inline-block;
+margin-right: 0px;
+float:left;
+
+}
+
+.android section{
+  width: 355px;
+
+}
+
+.android section p{
+display: inline-block;
+position: relative;
+width: 360px;
+float: left;
+
+}
+
+.android section span{
+  position:absolute;
+  background-color: #b5ce00;
+}
+.android article{
+  display: inline-block;
+  width: 400px;
+  margin-top: 15px;
+  margin-left: 15px;
+  color:black;
+
+}
+
+.testtatoo{
+  margin-left: 370px;
+  width: 950px;
+  display: inline-block;
+  margin-right: 0px;
+  float: left;
+
+}
+
+.testtatoo section{
+width: 355px;
+}
+
+.testtatoo section p{
+  display: inline-block;
+  position: relative;
+  width: 360px;
+  float:left;
+}
+
+.testtatoo span{
+  background-color: #b5ce00;
+  position: absolute;
+}
+
+
+.testtatoo article{
+  display: inline-block;
+  width: 400px;
+  margin-top: 15px;
+  margin-left: 15px;
+  color:black;
+
+}
+
+.iphone{
+  margin-left: 370px;
+  width: 950px;
+  display: inline-block;
+  float: left;
+
+}
+
+.iphone section{
+width: 355px;
+}
+
+.iphone section p{
+  display: inline-block;
+  position: relative;
+  width: 360px;
+  float:left;
+}
+
+.iphone span{
+  background-color: #b5ce00;
+  position: absolute;
+}
+
+
+.iphone article{
+  display: inline-block;
+  width: 400px;
+  margin-top: 15px;
+  margin-left: 15px;
+  color: black;
+
+}
+
+.appli{
+  width: 300px;
+display: inline-block;
+margin-top: 0px;
+vertical-align: top;
+float: right;
+
+
+}
+.liens p {
+  display: inline-block;
+  margin-left: 8px;
+
+}
+.appli section {
+  display: inline-block;
+}
